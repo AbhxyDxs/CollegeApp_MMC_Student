@@ -1,4 +1,4 @@
-# CollegeApp_MMC_Student
+# College Application || MMC [ Student ]
 **Simple College Application Designed for Mary Matha Arts & Science College Mananthavady.**
 
 <img src="Screenshots/MMC_Student_logo.png" align="left"
