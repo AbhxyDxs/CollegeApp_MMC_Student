@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.material.card.MaterialCardView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_margin="4dp"
+        android:padding="16dp">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:gravity="center_vertical"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <de.hdodenhof.circleimageview.CircleImageView
+                android:layout_width="36dp"
+                android:layout_height="36dp"
+                android:src="@drawable/avatar"/>
+
+
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:layout_marginLeft="16dp"
+                >
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Admin Mary Matha"
+                    android:textSize="18dp"
+                    android:textColor="@color/textColor"/>
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Date : "
+                        android:fontFamily="@font/latolight"
+                        android:textSize="@dimen/text_size01"
+                        android:textColor="@color/textColor"/>
+                    <TextView
+                        android:id="@+id/date"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="26 aug 2020"
+                        android:fontFamily="@font/latolight"
+                        android:textSize="@dimen/text_size01"
+                        android:textColor="@color/textColor"/>
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Time : "
+                        android:layout_marginLeft="@dimen/text_margin"
+                        android:fontFamily="@font/latolight"
+                        android:textSize="@dimen/text_size01"
+                        android:textColor="@color/textColor"/>
+                    <TextView
+                        android:id="@+id/time"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="7:52 "
+                        android:fontFamily="@font/latolight"
+                        android:textSize="@dimen/text_size01"
+                        android:textColor="@color/textColor"/>
+
+            </LinearLayout>
+            </LinearLayout>
+
+
+
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/Delnoticetitle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Testing Raster display is the display  where the electron gun is passed."
+            android:textSize="17sp"
+            android:layout_marginVertical="@dimen/text_margin"
+            android:textColor="@color/textColor"/>
+        <ImageView
+            android:id="@+id/deleteNoticeImg"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:scaleType="fitXY"/>
+
+
+
+    </LinearLayout>
+
+</com.google.android.material.card.MaterialCardView>

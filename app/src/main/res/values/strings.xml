@@ -1,0 +1,76 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Mary Matha College</string>
+    <string name="bold" tools:ignore="ReferenceType">@font/latobold</string>
+    <string name="regular" tools:ignore="ReferenceType">@font/latoregular</string>
+    <string name="light" tools:ignore="ReferenceType">@font/latolight</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="start">Start</string>
+    <string name="close">Close</string>
+
+    <string name="about_college">Started in the Year 1995,  affiliated to the Kannur University,
+        Mary Matha Arts and Science College is a Government-Aided College, managed by the Roman
+        Catholic Diocese of Mananthavady. There are Seven Under Graduate Programs (B.A. Functional
+        English, B.Sc. Mathematics, Zoology, Computer Science, Physics, Chemistry, and B. Com with
+        Computer Applications),Two Post Graduate Programme in Mathematics and Computer Science, Five
+        Research Programs leading to M. Phil. and Ph.D. in Mathematics (Kannur University), Malayalam
+        (Kannur University), Zoology (Kannur University), Computer Science (Kannur University) and Physical
+        Education (Kannur University) and Two Research Centres in Mathematics and Zoology.</string>
+    <string name="ncc">A unit of the National Cadet Corps consisting of 62 cadets (1-platoon)
+        comprising men and women is functioning in the college. This is an Army Wing under 1
+        (Ker) Arty Bty. N. C. C. Thalassery and Lt Dr Rajeev Thomas is the NCC Officer.
+        The Kannur University awards 3% Grace Marks for the ‘B’ Certificate holders and 4%
+        for the ‘C’ Certificate holders. Likewise the Cadets who attend the Summer Camp and
+        the Republic Day Pared Camp are eligible for 6% and 7% Grace Marks respectively.
+        In addition to that the Cadets completing two years in NCC will get weightage marks
+        for admission to various courses. Students who pass the B and C Examinations will find
+        it easy to get commissioned posts in the Defense Service.</string>
+    <string name="nss">
+The College has two units of the National Service Scheme (Unit No. 33 and 46 of the Kannur University).
+        The N. S. S. Units facilitate training for 200 students in Social Work. The Units are under the
+        supervision of Mr Toby K Joseph and Mr Binoy Joseph, the Program Officers. The units have undertaken
+        a number of programs that help the students to have a socially committed attitude in their education.
+        The volunteers are trained to preserve human values in their life along with the honours and titles that
+        they achieve in their academic tenure. To accomplish this NSS organizes the following activities. Orientation
+        Programme, Special Camping Programme, Environment enrichment programs, Health awareness programs, Educational Programs,
+        Observe important days, Women Empowerment Programs, Social Service Programs, Production Oriented Programs, Relief and Rehabilitation
+        work during Natural calamities etc</string>
+    <string name="ssp">The Scholar Support Programme, part of the ‘New Initiatives in Higher Education’
+        initiated by the Department of Higher Education, Govt. of Kerala aims at imparting additional support
+        to students in curricular areas of weakness. The pilot phase of the programme that has been introduced
+        in the  academic year 2014-2015 would target the First semester Degree programme (B.A./B.Sc/B.Com) being
+        offered by the four Universities of the State viz., Kerala, MG, Calicut and Kannur Universities. Subjects
+        in which additional curricular support would be offered have been selected based on a results analysis
+        work carried out based on results from the affiliated Colleges of Kerala. Mr Regi Francis, Asst. Professor
+        in Commerce coordinates the program</string>
+    <string name="wws"> Walk With a Scholar (WWS) Programme is another new Initiative Programme of Higher Education Department.
+        It has been observed that the students in Arts, Science and Commerce Colleges do not get necessary orientation,
+        to prepare them for employment or guidance necessary to select areas for higher study. Walk With a Scholar (WWS) scheme
+        proposes to arrange specialized mentoring programmes for students in the Under Graduate Programmes in Arts, Science and
+        Commerce and to provide guidance for their future.The scheme introduces the idea of mentoring and builds on the concept of a
+        mentor as a “Guide and Friend”. The Scheme aims at giving necessary orientation to bright students who can excel in their disciplines,
+        to give them necessary guidance,, motivation; goal orientation and mental support to identify appropriate areas for higher study as well as
+        future employment. For the purpose of mentoring, two categories of mentors are identified. The first is Internal Mentor and the second is External
+        Mentor. The Internal Mentor is a faculty from the institution in which the scholar is studying. External Mentors are identified from persons who
+        excel in their disciplines and professions as found necessary according to the local needs of the institution/ students.The programme is open for
+        30 students of the first year of the Under Graduate Programme of study in a college.</string>
+
+    <string name="asap"> To address the concern of the growing educated-unemployment rates of the State, the SSDP or
+        State Skill Development Project was enacted, in the year 2012. This was following the realization that Kerala
+        has the human resource and the potential to soar up to become a radial point for skilled manpower to the world by
+        virtue of its demographic dividend. SSDP involves the participation of industries and training partners to execute
+        the project tactically branched into two, ASAP (Additional Skill Acquisition Programme) and ASEP (Additional Skills
+        Enhancement Programme). ASAP, under the General and Higher Education Departments, works on the preventive side by training
+        Higher Secondary and Graduate students, offering skill courses to students in need of immediate employment. ASEP, under
+        the Department of Labour, on the curative side offers enhancement training to educated unemployed youth. Funded by ADB,
+        ASAP has now spread out into 1052 educational institutions across the state, offering 83 courses from 24 sectors, and is
+        expanding skill training services to all age groups through the innovative idea of Community Skill Parks. Ms Jisha T E,
+        Asst Professor in Computer Science coordinates the program.</string>
+    <string name="ignu">IGNOU was founded to serve the Indian population by means of distance and open education, providing quality
+        higher education opportunities to all segments of society. It also aims to encourage, coordinate and set standards for distance
+        and open education in India, and to strengthen the human resources of India through education.[4][5] Apart from teaching and research,
+        extension and training form the mainstay of its academic activities. It also acts as a national resource centre, and serves to promote and
+        maintain standards of distance education in India.[5] IGNOU hosts the Secretariats of the SAARC Consortium on Open and Distance Learning
+        (SACODiL) and the Global Mega Universities Network (GMUNET), initially supported by UNESCO</string>
+
+</resources>

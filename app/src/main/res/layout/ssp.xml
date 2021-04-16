@@ -1,0 +1,50 @@
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center_horizontal"
+    android:padding="16dp"
+    >
+
+    <ImageView
+        android:layout_width="64dp"
+        android:layout_height="64dp"
+        android:src="@drawable/ssp"
+        android:id="@+id/pimg"
+        />
+    <TextView
+        android:layout_marginTop="12dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:id="@+id/titl"
+        android:textColor="@color/textColor"
+        android:fontFamily="@font/latobold"
+        android:textSize="@dimen/title_size"
+        android:text="STUDENT SUPPORT PROGRAM"/>
+
+    <TextView
+        android:id="@+id/content"
+        android:layout_marginTop="16dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:justificationMode="inter_word"
+        android:fontFamily="@font/latoregular"
+        android:textSize="@dimen/text_size01"
+        android:textColor="@color/textColor"
+
+      android:text="@string/ssp"
+        />
+
+    <Button
+        android:layout_marginTop="16dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Cancel"
+        style="@style/Widget.AppCompat.Button.Colored"
+        android:id="@+id/button2"
+        />
+
+
+
+</LinearLayout>

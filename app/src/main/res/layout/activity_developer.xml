@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".DeveloperActivity"
+    android:background="@color/white">
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="400dp"
+        android:src="@drawable/bgim"
+        android:id="@+id/back"
+        tools:ignore="MissingConstraints" >
+    </ImageView>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:layout_below="@+id/back">
+
+        <TextView
+
+            android:layout_gravity="center"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="15dp"
+            android:fontFamily="@font/latobold"
+            android:text="AbhayDas Damodaran"
+            android:textColor="@color/textColor"
+            android:textSize="15sp"
+            tools:ignore="MissingConstraints" />
+
+        <TextView
+
+            android:layout_gravity="center"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="15dp"
+            android:fontFamily="@font/latobold"
+            android:text="Sachin Lal M S"
+            android:textColor="@color/textColor"
+            android:textSize="15sp"
+            tools:ignore="MissingConstraints" />
+
+        <TextView
+
+            android:layout_gravity="center"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="15dp"
+            android:fontFamily="@font/latobold"
+            android:text="Anandhu V R"
+            android:textColor="@color/textColor"
+            android:textSize="15sp"
+            tools:ignore="MissingConstraints" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="horizontal"
+            android:layout_margin="5dp"
+            android:gravity="center">
+            <de.hdodenhof.circleimageview.CircleImageView
+                android:layout_width="25dp"
+                android:layout_height="25dp"
+                android:layout_margin="8dp"
+                android:id="@+id/fb"
+                android:src="@drawable/ic_facebook"/>
+            <de.hdodenhof.circleimageview.CircleImageView
+                android:layout_width="25dp"
+                android:layout_height="25dp"
+                android:layout_margin="8dp"
+                android:id="@+id/insta"
+                android:src="@drawable/ic_instagram"/>
+            <de.hdodenhof.circleimageview.CircleImageView
+                android:layout_width="25dp"
+                android:layout_height="25dp"
+                android:layout_margin="8dp"
+                android:id="@+id/twt"
+                android:src="@drawable/ic_twitter"/>
+            <de.hdodenhof.circleimageview.CircleImageView
+                android:layout_width="25dp"
+                android:layout_height="25dp"
+                android:layout_margin="8dp"
+                android:id="@+id/gmil"
+                android:src="@drawable/ic_linkedin"/>
+            <de.hdodenhof.circleimageview.CircleImageView
+                android:layout_width="25dp"
+                android:layout_height="25dp"
+                android:layout_margin="8dp"
+                android:id="@+id/git"
+                android:src="@drawable/ic_github"/>
+            <de.hdodenhof.circleimageview.CircleImageView
+                android:layout_width="25dp"
+                android:layout_height="25dp"
+                android:layout_margin="8dp"
+                android:id="@+id/web"
+                android:src="@drawable/ic_web"/>
+        </LinearLayout>
+
+
+
+
+
+
+
+    </LinearLayout>
+
+
+</RelativeLayout>
