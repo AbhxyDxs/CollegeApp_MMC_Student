@@ -1,12 +1,12 @@
 # CollegeApp_MMC_Student
 **Simple College Application Designed for Mary Matha Arts & Science College Mananthavady.**
 
-<img src="app/src/main/ic_launcher_mmc-playstore.png" align="left"
+<img src="Screenshots/MMC_Student_logo.png" align="left"
 width="100"
     hspace="10" vspace="10">
 
-This is simple Splash Screen App | The Splash screen is used for basically two things. Number one usage of splash screen is to welcome our app users to into the app with a nice UI and the second critical usage is to make sure your app loads all the basic information while the Splash screen is being displayed to the user.
+This is a simple android application that can be used by students of Mary Matha Arts & Science College Mananthavady. With this app, students can get in touch with the college and the management. Students can view latest Notices,Question Papers,eBooks,Faculty changes,etc through this application. Most of the contents are updated with an admin handler of the same app.
 <br>
 
-## Preview
-<img src="/screenshots/sabith_pkc_mnr_github_repo_splash_screen_intro.webp">
+## Intro
+<img src="Screenshots/MMC_Student_Intro.png">
